@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things that helps me understand the world better! Coding and developing new approaches to help improve people's lives.
 - 🌱 I’m currently learning python, and becoming a better data analyts.
 - 💞️ I’m looking to collaborate on anyone who is interested in Regtech, LegalTech or just general data analytics.
-- 📫 How to reach me via Email: wttan11@gmail.com
+- 📫 How to reach me via Email: daizentan(at)gmail(dot)com
 
 <!---
 WeileiamT/WeileiamT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
