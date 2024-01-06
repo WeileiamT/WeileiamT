@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @William. I work as a data analytics consultant in financial services within the audit/risk space.  Have worked with numerous BI tools including PowerBI, Tableau and Qlik. Handy with SQL.
+- 👋 Hi, I’m @William. I work as a data analytics consultant in financial services focussed on risk, compliance and audit. Experience with numerous BI tools including PowerBI, Tableau and Qlik. Handy with SQL.
 - 👀 I’m interested in learning new things that helps me understand the world better! Coding and developing new approaches to help improve people's lives.
 - 🌱 I’m currently learning python、日本語べんきょします
 - 💞️ I’m looking to collaborate on anyone who is interested in Regtech, LegalTech or just general data analytics.
