@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @William. I work as a data analytics consultant in financial services focussed on risk, compliance and audit. Experience with numerous BI tools including PowerBI, Tableau and Qlik. Handy with SQL.
 - 👀 I’m interested in learning new things that helps me understand the world better! Coding and developing new approaches to help improve people's lives.
 - 🌱 I’m currently learning python、日本語べんきょします
-- 💞️ I’m looking to collaborate on anyone who is interested in Regtech, LegalTech or just general data analytics.
+- 💞️ I’m looking to collaborate on anyone who is interested in Regtech, LegalTech or just generally finding ways to draw value and insights from data.
 - 📫 How to reach me via Email: daizentan(at)gmail(dot)com
 
 <!---
